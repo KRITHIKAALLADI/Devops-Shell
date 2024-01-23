@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script to delete files created in ForLoop Directory
+
 
 for File in `cat vm.txt`
 
